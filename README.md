@@ -5,7 +5,8 @@ ROCK.PAPER.SCISSORS. THE AGE OLD GAME OF CHANCE YOU PLAY WITH FRIENDS. TODAY YOU
 
 
 <h1>FLOWCHART AND UI</h1>
-Below shows a visual outline of the pathway to complete the game and tthe choices made along the way. 
+Below shows a visual outline of the pathway to complete the game and the choices made along the way. 
+<img src="https://imgur.com/zODgsFQ.png"/>
 
 <br />
 
@@ -107,5 +108,6 @@ PASTE THIS CODE INTO YOUR C++ COMPILER OF CHOICE AND GIVE THE GAME A TRY.
 
 
 <h2> OUTPUT VISUAL</h2>
+<img src="https://imgur.com/M4SALf1.png"/>
 
 
